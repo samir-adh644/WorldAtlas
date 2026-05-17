@@ -6,7 +6,7 @@ function Headers() {
     <header>
         <div className="container">
             <div className="grid navbar-grid">
-                <div className="logo">
+                <div className="Logo">
                     <NavLink to="/">
                         <h1>WorldAtlas</h1>
                     </NavLink>
@@ -16,22 +16,22 @@ function Headers() {
                     <ul>
                         <li>
                             <NavLink to="/">
-                            <a>Home</a>
+                            Home
                             </NavLink>
                         </li>
                         <li>
                             <NavLink to="/about">
-                            <a>About</a>
+                            About
                             </NavLink>
                         </li>
                         <li>
                             <NavLink to="/country">
-                            <a>Country</a>
+                            Country
                             </NavLink>
                         </li>
                         <li>
                             <NavLink to="/contact">
-                           <a> Contact</a>
+                            Contact
                             </NavLink>
                         </li>
                         
